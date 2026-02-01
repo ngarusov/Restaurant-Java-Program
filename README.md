@@ -1,5 +1,5 @@
 # Restaurant-Java-Program
-##Properties
+## Properties
 - int waitTime;
 - double rating;
 - double avgPrice;
