@@ -5,3 +5,4 @@
 - double avgPrice
 - double distance
 - String hoursOpen
+
