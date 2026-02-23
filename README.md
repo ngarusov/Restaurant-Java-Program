@@ -5,4 +5,8 @@
 - double avgPrice
 - double distance
 - String hoursOpen
+- inputDialog
+- Getters and Setters
+- Arraylist
+- toString()
 
