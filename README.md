@@ -20,7 +20,7 @@ March 22
 -- double distance
 -- String hoursOpen
 
--We also set it up so that the restaurants that are printed out are chosen at random 
--- this is done by using the random class, which as you would guess picks out a random number and that random number is the postion of the chosen printed restaurant in the list.
+- We also set it up so that the restaurants that are printed out are chosen at random 
+  - this is done by using the random class, which as you would guess picks out a random number and that random number is the postion of the chosen printed restaurant in the list.
 
 
